@@ -1,0 +1,22 @@
+typography_spectrum: 0.7077682106755674
+color:
+  brandStrength: 0.20335592818446457
+  lightness: 0.6652078521437943
+  saturation: 0.7365217506885529
+  rhythmicContrast: 0.48049053084105253
+github: true
+opengraph:
+  appId: maldives.mumbai@gmail.com
+layout_spectrum: 0.8155202190391719
+author:
+  name: Hon Consul
+  email: honconsul@themaldives.in
+  url: www.themaldives.in
+name: shalintandon
+title: Visit Maldives
+content: []
+description: ''
+purpose:
+  - type: external
+    url: 'http://www.themaldives.in'
+    label: 'http://www.themaldives.in'
